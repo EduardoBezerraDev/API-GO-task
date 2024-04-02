@@ -26,7 +26,7 @@ go mod tidy
 ```
 ### Passo 3: Configure o Banco de Dados
 
-Execute o script database.sql localizado em database/schema.sql para criar o banco de dados.
+Execute o script database.sql localizado em db/database.sql para criar o banco de dados.
 
 ### Passo 4: Inicie o Servidor
 Execute o seguinte comando para iniciar o servidor:
