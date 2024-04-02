@@ -35,14 +35,21 @@ go run main.go
 
 ### Passo 5: Teste as Rotas
 Abra o Postman (ou seu cliente de API REST preferido) e teste as seguintes rotas:
+
 GET /api/tasks: Recupere todas as tarefas.
+
 GET /api/tasks/{id}: Recupere uma tarefa específica pelo ID.
+
 POST /api/tasks: Crie uma nova tarefa.
+
 PUT /api/tasks/{id}: Atualize uma tarefa existente pelo ID.
+
 DELETE /api/tasks/{id}: Exclua uma tarefa pelo ID.
+
 Certifique-se de fornecer os parâmetros necessários nos corpos das solicitações (para rotas que exigem dados) e nos parâmetros de URL conforme necessário.
 
 ### Observações
 Certifique-se de que o servidor esteja em execução enquanto testa as rotas.
+
 Sempre valide os dados de entrada conforme necessário para evitar erros.
 
