@@ -15,7 +15,7 @@ Siga as instruções abaixo para testar a API localmente.
 ### Passo 1: Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/API-GO-task.git
+https://github.com/EduardoBezerraDev/API-GO-task.git
 ```
 ### Passo 2: Clone o Repositório
 Navegue até o diretório do projeto e instale as dependências do Go usando o seguinte comando:
